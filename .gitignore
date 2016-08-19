@@ -1,0 +1,14 @@
+XcodeProj/
+VSProj/
+Make/
+data/
+fitting_vignetting/
+build/
+.vscode/
+*.png
+*.jpg
+*.bmp
+*.zip
+*.asv
+*.prj
+*.obj
